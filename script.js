@@ -28,7 +28,7 @@ function trocar(nLinha, bt) {
 
     nLinha = nLinha - 1;
     auxiliar = lsAlunos[nLinha];
-    confirm("Linha: " + nLinha + "  Botão: " + bt);
+    // confirm("Linha: " + nLinha + "  Botão: " + bt);
 
     if (bt == 's'){
 
